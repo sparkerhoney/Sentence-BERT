@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import json
 
 # sample_data load
-with open('sample_data.json', 'r', encoding='utf-8') as f:
+with open('/Users/marketdesigners/Documents/GitHub/sentencec-bert/data/extractions_sample_data.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # "usage_example" 첫번째 key의 값을 추출
