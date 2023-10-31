@@ -25,13 +25,13 @@ sentences1 = ["""{
     }"""]
 sentences2 = ["""{
         "FoundedEntity": {
-            "Entity.entity": "get the hang of",
-            "sub_type": "idiom",
-            "usage_example": "It was a bit challenging, especially the past perfect tense, but I think I'm getting the hang of it.",
-            "context_from_dialogue": "The student expressed understanding and acquiring skill in using past perfect tense through practice.",
-            "reason_of_score": "The idiom is used correctly within the context, indicating the process of understanding or mastering something through experience or practice."
+            "Entity.entity": "take off",
+            "sub_type": "phrasalVerb",
+            "usage_example": "\"take off\" means to remove something quickly, like a piece of clothing, but it can also mean to leave suddenly in the context of a plane \"taking off.\"",
+            "context_from_dialogue": "The tutor explains the dual meanings of \"take off\" in different contexts.",
+            "reason_of_score": "The phrasal verb is used appropriately, explaining its different meanings based on context, enhancing understanding."
         },
-        "Score": 0.85
+        "Score": 0.75
     }"""]
 
 # Load model from HuggingFace Hub

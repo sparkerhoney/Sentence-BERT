@@ -12,26 +12,26 @@ def mean_pooling(model_output, attention_mask):
 # Sentences we want sentence embeddings for
 sentences1 = ["""{
         "Entity": {
-            "Entity.entity": "get the hang of",
+            "Entity.entity": "practice makes perfect",
             "sub_type": "idiom",
-            "CEFR": "B1",
+            "CEFR": "A2",
             "core1": "Education and Knowledge",
-            "core2": "Emotions and Characteristics",
-            "core3": "Mind",
+            "core2": "Education and Learning",
+            "core3": "Education",
             "source": "",
-            "usage_example": "After a few tries, she finally got the hang of playing the piano.",
-            "EXPLANATION": "to become familiar or skilled in doing something."
+            "usage_example": "",
+            "EXPLANATION": ""
         }
     }"""]
 sentences2 = ["""{
         "FoundedEntity": {
-            "Entity.entity": "get the hang of",
+            "Entity.entity": "practice makes perfect",
             "sub_type": "idiom",
-            "usage_example": "It was a bit challenging, especially the past perfect tense, but I think I'm getting the hang of it.",
-            "context_from_dialogue": "The student expressed understanding and acquiring skill in using past perfect tense through practice.",
-            "reason_of_score": "The idiom is used correctly within the context, indicating the process of understanding or mastering something through experience or practice."
+            "usage_example": "You're welcome! Remember, practice makes perfect.",
+            "context_from_dialogue": "The tutor encourages the student to keep practicing to improve.",
+            "reason_of_score": "The idiom is used in a motivational context, which is a common and appropriate use, encouraging continued effort and improvement."
         },
-        "Score": 0.85
+        "Score": 0.95
     }"""]
 
 # Load model from HuggingFace Hub
