@@ -19,8 +19,8 @@ sentences1 = ["""{
             "core2": "Education and Learning",
             "core3": "Education",
             "source": "",
-            "usage_example": "",
-            "EXPLANATION": ""
+            "usage_example": "Keep practicing, remember, practice makes perfect.",
+            "EXPLANATION": "the more you practice, the better you become at something."
         }
     }"""]
 sentences2 = ["""{
