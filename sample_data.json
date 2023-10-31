@@ -1,0 +1,62 @@
+[
+    {
+        "FoundedEntity": {
+            "Entity.entity": "get the hang of",
+            "sub_type": "idiom",
+            "usage_example": "It was a bit challenging, especially the past perfect tense, but I think I'm getting the hang of it.",
+            "context_from_dialogue": "The student expressed understanding and acquiring skill in using past perfect tense through practice.",
+            "reason_of_score": "The idiom is used correctly within the context, indicating the process of understanding or mastering something through experience or practice."
+        },
+        "Score": 0.85
+    },
+    {
+        "FoundedEntity": {
+            "Entity.entity": "",
+            "sub_type": "phrasalVerb",
+            "usage_example": "\"takeoff\" means to remove something quickly, like a piece of clothing, but it can also mean to leave suddenly in the context of a plane \"taking off.\"",
+            "context_from_dialogue": "The tutor explains the dual meanings of \"takeoff\" in different contexts.",
+            "reason_of_score": "The phrasal verb is used appropriately, explaining its different meanings based on context, enhancing understanding."
+        },
+        "Score": 0.75
+    },
+    {
+        "FoundedEntity": {
+            "Entity.entity": "put off",
+            "sub_type": "phrasalVerb",
+            "usage_example": "\"put off\" means to postpone or delay.",
+            "context_from_dialogue": "The tutor is giving examples of phrasal verbs to the student.",
+            "reason_of_score": "The phrase is used correctly, showcasing its meaning as part of educational content on phrasal verbs."
+        },
+        "Score": 0.70
+    },
+    {
+        "FoundedEntity": {
+            "Entity.entity": "run into",
+            "sub_type": "phrasalVerb",
+            "usage_example": "\"run into\" means to encounter someone unexpectedly.",
+            "context_from_dialogue": "The tutor is explaining the meaning of various phrasal verbs.",
+            "reason_of_score": "The usage fits perfectly in the educational context where the tutor explains the meaning of the phrasal verb."
+        },
+        "Score": 0.80
+    },
+    {
+        "FoundedEntity": {
+            "Entity.entity": "tongue-twister",
+            "sub_type": "vocabulary",
+            "usage_example": "\"The sixth sick sheik's sixth sheep's sick.\" That's a tongue-twister!",
+            "context_from_dialogue": "The student recognizes the complexity of the sentence the tutor asked them to repeat.",
+            "reason_of_score": "The term is used correctly, identifying a specific type of sentence designed to be difficult to articulate."
+        },
+        "Score": 0.90
+    },
+    {
+        "FoundedEntity": {
+            "Entity.entity": "practice makes perfect",
+            "sub_type": "idiom",
+            "usage_example": "You're welcome! Remember, practice makes perfect.",
+            "context_from_dialogue": "The tutor encourages the student to keep practicing to improve.",
+            "reason_of_score": "The idiom is used in a motivational context, which is a common and appropriate use, encouraging continued effort and improvement."
+        },
+        "Score": 0.95
+    }
+]
