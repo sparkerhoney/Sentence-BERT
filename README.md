@@ -1,1 +1,1 @@
-# sentencec-bert
+# Sentence-BERT
